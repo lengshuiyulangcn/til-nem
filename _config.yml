@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Til on NEM
+subtitle: daily ideas and thoughts logged on blockchain
 description:
-author: John Doe
+author: Gyorou
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://til.bocchi.tokyo
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
